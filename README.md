@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @wadesmu
-- 👀 I’m interested in biology and engineering
-- 🌱 I’m currently toying with basic web design
-- Email: wadeseanmu@gmail.com
+- 👋 Hi, I'm @wadesmu
+- ⚡ I am a current undergraduate Electrical Engineering student.
+- 💡I am interested in science communication and education.
